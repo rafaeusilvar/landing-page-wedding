@@ -1,0 +1,55 @@
+body{
+    background: #BBBBBB;
+}
+
+.home{
+    font-size: 77px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: white;
+    background: linear-gradient(rgba(0,0,0.50),rgba(0,0,0,.50)20%), url('https://images.pexels.com/photos/2253870/pexels-photo-2253870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940');
+    height:750px;
+    background-size:cover;
+    padding-top: 20%;
+}
+
+.text-2 {
+  color: white;
+  margin-right: 3%;
+}
+
+.fa-heart {
+  font-size: 50px;
+  color: white;
+  margin-right: 4%;
+}
+
+/*MENU*/
+.menu {
+    text-align: center;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #FFA07A;
+    border: 25px solid #FFA07A;
+}
+
+
+.text {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+.text:hover{
+    text-decoration: none;
+    color:white;
+}
+/*FIM MENU*/
+
+.sobre-noivos {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
